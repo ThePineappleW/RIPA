@@ -1,0 +1,5 @@
+*.bak
+compiled/
+*autorec*
+*.rkt#1#
+*.rkt~
